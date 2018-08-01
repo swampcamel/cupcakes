@@ -58,3 +58,15 @@ img.best {
     border: 2px solid #E80C7A;
     outline: 4px solid #844AFF;
 }
+
+.no {
+  margin-top: 100px;
+  text-align: center;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  color: #fff;
+  font-size: 18px;
+  line-height: 20px;
+}
